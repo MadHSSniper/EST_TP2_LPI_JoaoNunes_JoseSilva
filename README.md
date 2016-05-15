@@ -3,7 +3,7 @@ Trabalho pratico 2 LPI
 
 Reescrever o trabalho 1 para a nova linguagem WEB.
 
-TODO:
-- adaptar codigo;
-OU
+TODO:<br>
+- Adaptar codigo;
+<br>OU<br>
 - Criar trabalho de raíz;
